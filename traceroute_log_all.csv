@@ -1,0 +1,364 @@
+Destination,Hop,IP,ASN,City,Region,Country,Loc,Postal,Timezone
+google.com,1,172.20.160.1,,,,,,,
+google.com,2,192.168.1.1,,,,,,,
+google.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+google.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+google.com,5,*,,,,,,,
+google.com,6,209.85.149.208,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+google.com,7,*,,,,,,,
+google.com,8,216.239.49.64,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+google.com,9,142.251.60.235,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+google.com,10,142.250.81.238,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+mail.ru,1,172.20.160.1,,,,,,,
+mail.ru,2,192.168.1.1,,,,,,,
+mail.ru,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+mail.ru,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+mail.ru,5,*,,,,,,,
+mail.ru,6,*,,,,,,,
+mail.ru,7,62.115.135.162,AS1299 Arelion Sweden AB,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+mail.ru,8,80.91.254.90,AS1299 Arelion Sweden AB,Malmö,Skåne,SE,"55.6059,13.0007",200 01,Europe/Stockholm
+mail.ru,9,62.115.139.172,AS1299 Arelion Sweden AB,Stockholm,Stockholm,SE,"59.3294,18.0687",195 87,Europe/Stockholm
+mail.ru,10,62.115.141.23,AS1299 Arelion Sweden AB,Moscow,Moscow,RU,"55.7522,37.6156",101000,Europe/Moscow
+mail.ru,11,*,,,,,,,
+mail.ru,12,*,,,,,,,
+mail.ru,13,*,,,,,,,
+mail.ru,14,*,,,,,,,
+mail.ru,15,*,,,,,,,
+mail.ru,16,*,,,,,,,
+mail.ru,17,*,,,,,,,
+mail.ru,18,*,,,,,,,
+mail.ru,19,*,,,,,,,
+mail.ru,20,*,,,,,,,
+microsoft.com,1,172.20.160.1,,,,,,,
+microsoft.com,2,192.168.1.1,,,,,,,
+microsoft.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+microsoft.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+microsoft.com,5,*,,,,,,,
+microsoft.com,6,63.65.79.218,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+microsoft.com,7,*,,,,,,,
+microsoft.com,8,*,,,,,,,
+microsoft.com,9,*,,,,,,,
+microsoft.com,10,*,,,,,,,
+microsoft.com,11,*,,,,,,,
+microsoft.com,12,*,,,,,,,
+microsoft.com,13,*,,,,,,,
+microsoft.com,14,*,,,,,,,
+microsoft.com,15,*,,,,,,,
+microsoft.com,16,*,,,,,,,
+microsoft.com,17,*,,,,,,,
+microsoft.com,18,*,,,,,,,
+microsoft.com,19,*,,,,,,,
+microsoft.com,20,*,,,,,,,
+facebook.com,1,172.20.160.1,,,,,,,
+facebook.com,2,192.168.1.1,,,,,,,
+facebook.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+facebook.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+facebook.com,5,*,,,,,,,
+facebook.com,6,152.179.68.58,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+facebook.com,7,129.134.48.212,"AS32934 Facebook, Inc.",New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+facebook.com,8,129.134.62.110,"AS32934 Facebook, Inc.",New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+facebook.com,9,129.134.80.48,"AS32934 Facebook, Inc.",Secaucus,New Jersey,US,"40.7895,-74.0565",07094,America/New_York
+facebook.com,10,*,,,,,,,
+facebook.com,11,*,,,,,,,
+facebook.com,12,*,,,,,,,
+facebook.com,13,*,,,,,,,
+facebook.com,14,*,,,,,,,
+facebook.com,15,*,,,,,,,
+facebook.com,16,*,,,,,,,
+facebook.com,17,*,,,,,,,
+facebook.com,18,*,,,,,,,
+facebook.com,19,*,,,,,,,
+facebook.com,20,*,,,,,,,
+apple.com,1,172.20.160.1,,,,,,,
+apple.com,2,192.168.1.1,,,,,,,
+apple.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+apple.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+apple.com,5,140.222.8.11,,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+apple.com,6,152.179.200.198,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+apple.com,7,17.253.144.10,AS714 Apple Inc.,Cupertino,California,US,"37.3230,-122.0322",95014,America/Los_Angeles
+amazonaws.com,1,172.20.160.1,,,,,,,
+amazonaws.com,2,192.168.1.1,,,,,,,
+amazonaws.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+amazonaws.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+amazonaws.com,5,*,,,,,,,
+amazonaws.com,6,*,,,,,,,
+amazonaws.com,7,*,,,,,,,
+amazonaws.com,8,*,,,,,,,
+amazonaws.com,9,*,,,,,,,
+amazonaws.com,10,*,,,,,,,
+amazonaws.com,11,*,,,,,,,
+amazonaws.com,12,*,,,,,,,
+amazonaws.com,13,*,,,,,,,
+amazonaws.com,14,*,,,,,,,
+amazonaws.com,15,*,,,,,,,
+amazonaws.com,16,*,,,,,,,
+amazonaws.com,17,*,,,,,,,
+amazonaws.com,18,*,,,,,,,
+amazonaws.com,19,*,,,,,,,
+amazonaws.com,20,*,,,,,,,
+dzen.ru,1,172.20.160.1,,,,,,,
+dzen.ru,2,192.168.1.1,,,,,,,
+dzen.ru,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+dzen.ru,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+dzen.ru,5,*,,,,,,,
+dzen.ru,6,*,,,,,,,
+dzen.ru,7,*,,,,,,,
+dzen.ru,8,80.91.254.90,AS1299 Arelion Sweden AB,Malmö,Skåne,SE,"55.6059,13.0007",200 01,Europe/Stockholm
+dzen.ru,9,62.115.139.172,AS1299 Arelion Sweden AB,Stockholm,Stockholm,SE,"59.3294,18.0687",195 87,Europe/Stockholm
+dzen.ru,10,62.115.141.23,AS1299 Arelion Sweden AB,Moscow,Moscow,RU,"55.7522,37.6156",101000,Europe/Moscow
+dzen.ru,11,*,,,,,,,
+dzen.ru,12,*,,,,,,,
+dzen.ru,13,*,,,,,,,
+dzen.ru,14,*,,,,,,,
+dzen.ru,15,*,,,,,,,
+dzen.ru,16,*,,,,,,,
+dzen.ru,17,*,,,,,,,
+dzen.ru,18,*,,,,,,,
+dzen.ru,19,*,,,,,,,
+dzen.ru,20,*,,,,,,,
+youtube.com,1,172.20.160.1,,,,,,,
+youtube.com,2,192.168.1.1,,,,,,,
+youtube.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+youtube.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+youtube.com,5,*,,,,,,,
+youtube.com,6,152.193.106.146,AS701 Verizon Business,Secaucus,New Jersey,US,"40.7895,-74.0565",07094,America/New_York
+youtube.com,7,192.178.106.39,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+youtube.com,8,108.170.236.91,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+youtube.com,9,142.251.40.238,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,1,172.20.160.1,,,,,,,
+googleapis.com,2,192.168.1.1,,,,,,,
+googleapis.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+googleapis.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+googleapis.com,5,*,,,,,,,
+googleapis.com,6,209.85.149.208,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,7,*,,,,,,,
+googleapis.com,8,142.251.60.226,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,9,192.178.107.52,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,10,192.178.253.203,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,11,209.85.255.53,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,12,192.178.106.21,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,13,216.239.40.187,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googleapis.com,14,142.251.40.196,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+cloudflare.com,1,172.20.160.1,,,,,,,
+cloudflare.com,2,192.168.1.1,,,,,,,
+cloudflare.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+cloudflare.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+cloudflare.com,5,*,,,,,,,
+cloudflare.com,6,*,,,,,,,
+cloudflare.com,7,162.158.61.125,"AS13335 Cloudflare, Inc.",Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+cloudflare.com,8,104.16.133.229,"AS13335 Cloudflare, Inc.",San Francisco,California,US,"37.7621,-122.3971",94107,America/Los_Angeles
+akamai.net,N/A,N/A,Unresolvable,,,,,,
+instagram.com,1,172.20.160.1,,,,,,,
+instagram.com,2,192.168.1.1,,,,,,,
+instagram.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+instagram.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+instagram.com,5,*,,,,,,,
+instagram.com,6,152.179.68.58,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+instagram.com,7,129.134.48.212,"AS32934 Facebook, Inc.",New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+instagram.com,8,129.134.62.111,"AS32934 Facebook, Inc.",New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+instagram.com,9,163.77.193.189,,Dublin,Leinster,IE,"53.3331,-6.2489",D02,Europe/Dublin
+instagram.com,10,*,,,,,,,
+instagram.com,11,*,,,,,,,
+instagram.com,12,*,,,,,,,
+instagram.com,13,*,,,,,,,
+instagram.com,14,*,,,,,,,
+instagram.com,15,*,,,,,,,
+instagram.com,16,*,,,,,,,
+instagram.com,17,*,,,,,,,
+instagram.com,18,*,,,,,,,
+instagram.com,19,*,,,,,,,
+instagram.com,20,*,,,,,,,
+twitter.com,1,172.20.160.1,,,,,,,
+twitter.com,2,192.168.1.1,,,,,,,
+twitter.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+twitter.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+twitter.com,5,*,,,,,,,
+twitter.com,6,*,,,,,,,
+twitter.com,7,162.158.61.125,"AS13335 Cloudflare, Inc.",Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+twitter.com,8,162.159.140.229,"AS13335 Cloudflare, Inc.",San Francisco,California,US,"37.7621,-122.3971",94107,America/Los_Angeles
+akamaiedge.net,N/A,N/A,Unresolvable,,,,,,
+office.com,1,172.20.160.1,,,,,,,
+office.com,2,192.168.1.1,,,,,,,
+office.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+office.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+office.com,5,*,,,,,,,
+office.com,6,63.65.79.218,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+office.com,7,*,,,,,,,
+office.com,8,104.44.231.63,AS8075 Microsoft Corporation,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+office.com,9,*,,,,,,,
+office.com,10,*,,,,,,,
+office.com,11,*,,,,,,,
+office.com,12,*,,,,,,,
+office.com,13,*,,,,,,,
+office.com,14,*,,,,,,,
+office.com,15,*,,,,,,,
+office.com,16,*,,,,,,,
+office.com,17,*,,,,,,,
+office.com,18,*,,,,,,,
+office.com,19,*,,,,,,,
+office.com,20,*,,,,,,,
+gstatic.com,1,172.20.160.1,,,,,,,
+gstatic.com,2,192.168.1.1,,,,,,,
+gstatic.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+gstatic.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+gstatic.com,5,*,,,,,,,
+gstatic.com,6,152.193.106.146,AS701 Verizon Business,Secaucus,New Jersey,US,"40.7895,-74.0565",07094,America/New_York
+gstatic.com,7,192.178.107.253,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+gstatic.com,8,142.251.60.225,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+gstatic.com,9,142.250.65.227,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+azure.com,1,172.20.160.1,,,,,,,
+azure.com,2,192.168.1.1,,,,,,,
+azure.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+azure.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+azure.com,5,*,,,,,,,
+azure.com,6,63.65.79.218,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+azure.com,7,*,,,,,,,
+azure.com,8,104.44.33.205,AS8075 Microsoft Corporation,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+azure.com,9,51.10.34.98,AS8075 Microsoft Corporation,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+azure.com,10,*,,,,,,,
+azure.com,11,*,,,,,,,
+azure.com,12,*,,,,,,,
+azure.com,13,51.10.0.64,AS8075 Microsoft Corporation,Dallas,Texas,US,"32.7831,-96.8067",75201,America/Chicago
+azure.com,14,104.44.16.145,AS8075 Microsoft Corporation,London,England,GB,"51.5085,-0.1257",E1W,Europe/London
+azure.com,15,51.10.5.14,AS8075 Microsoft Corporation,Ashburn,Virginia,US,"39.0437,-77.4875",20147,America/New_York
+azure.com,16,51.10.17.150,AS8075 Microsoft Corporation,London,England,GB,"51.5085,-0.1257",E1W,Europe/London
+azure.com,17,*,,,,,,,
+azure.com,18,*,,,,,,,
+azure.com,19,*,,,,,,,
+azure.com,20,*,,,,,,,
+linkedin.com,1,172.20.160.1,,,,,,,
+linkedin.com,2,192.168.1.1,,,,,,,
+linkedin.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+linkedin.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+linkedin.com,5,*,,,,,,,
+linkedin.com,6,63.65.79.218,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+linkedin.com,7,*,,,,,,,
+linkedin.com,8,*,,,,,,,
+linkedin.com,9,*,,,,,,,
+linkedin.com,10,*,,,,,,,
+linkedin.com,11,*,,,,,,,
+linkedin.com,12,*,,,,,,,
+linkedin.com,13,*,,,,,,,
+linkedin.com,14,*,,,,,,,
+linkedin.com,15,*,,,,,,,
+linkedin.com,16,*,,,,,,,
+linkedin.com,17,*,,,,,,,
+linkedin.com,18,*,,,,,,,
+linkedin.com,19,*,,,,,,,
+linkedin.com,20,*,,,,,,,
+live.com,1,172.20.160.1,,,,,,,
+live.com,2,192.168.1.1,,,,,,,
+live.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+live.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+live.com,5,*,,,,,,,
+live.com,6,*,,,,,,,
+live.com,7,*,,,,,,,
+live.com,8,*,,,,,,,
+live.com,9,*,,,,,,,
+live.com,10,*,,,,,,,
+live.com,11,*,,,,,,,
+live.com,12,*,,,,,,,
+live.com,13,*,,,,,,,
+live.com,14,*,,,,,,,
+live.com,15,*,,,,,,,
+live.com,16,*,,,,,,,
+live.com,17,*,,,,,,,
+live.com,18,*,,,,,,,
+live.com,19,*,,,,,,,
+live.com,20,*,,,,,,,
+akadns.net,N/A,N/A,Unresolvable,,,,,,
+googlevideo.com,1,172.20.160.1,,,,,,,
+googlevideo.com,2,192.168.1.1,,,,,,,
+googlevideo.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+googlevideo.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+googlevideo.com,5,*,,,,,,,
+googlevideo.com,6,152.193.106.146,AS701 Verizon Business,Secaucus,New Jersey,US,"40.7895,-74.0565",07094,America/New_York
+googlevideo.com,7,192.178.106.111,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googlevideo.com,8,108.170.236.89,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googlevideo.com,9,142.251.40.228,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+ax-msedge.net,N/A,N/A,Unresolvable,,,,,,
+googletagmanager.com,1,172.20.160.1,,,,,,,
+googletagmanager.com,2,192.168.1.1,,,,,,,
+googletagmanager.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+googletagmanager.com,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+googletagmanager.com,5,*,,,,,,,
+googletagmanager.com,6,209.85.149.208,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googletagmanager.com,7,*,,,,,,,
+googletagmanager.com,8,142.251.65.102,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googletagmanager.com,9,192.178.106.18,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googletagmanager.com,10,*,,,,,,,
+googletagmanager.com,11,216.239.58.120,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googletagmanager.com,12,192.178.108.19,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googletagmanager.com,13,142.251.60.225,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+googletagmanager.com,14,142.250.65.232,AS15169 Google LLC,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+fbcdn.net,1,172.20.160.1,,,,,,,
+fbcdn.net,2,192.168.1.1,,,,,,,
+fbcdn.net,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+fbcdn.net,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+fbcdn.net,5,*,,,,,,,
+fbcdn.net,6,152.179.68.58,AS701 Verizon Business,New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+fbcdn.net,7,129.134.48.212,"AS32934 Facebook, Inc.",New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+fbcdn.net,8,129.134.62.110,"AS32934 Facebook, Inc.",New York City,New York,US,"40.7143,-74.0060",10001,America/New_York
+fbcdn.net,9,129.134.80.48,"AS32934 Facebook, Inc.",Secaucus,New Jersey,US,"40.7895,-74.0565",07094,America/New_York
+fbcdn.net,10,*,,,,,,,
+fbcdn.net,11,*,,,,,,,
+fbcdn.net,12,*,,,,,,,
+fbcdn.net,13,*,,,,,,,
+fbcdn.net,14,*,,,,,,,
+fbcdn.net,15,*,,,,,,,
+fbcdn.net,16,*,,,,,,,
+fbcdn.net,17,*,,,,,,,
+fbcdn.net,18,*,,,,,,,
+fbcdn.net,19,*,,,,,,,
+fbcdn.net,20,*,,,,,,,
+apple-dns.net,N/A,N/A,Unresolvable,,,,,,
+windowsupdate.com,N/A,N/A,Unresolvable,,,,,,
+amazon.com,1,172.20.160.1,,,,,,,
+amazon.com,2,192.168.1.1,,,,,,,
+amazon.com,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+amazon.com,4,100.41.132.140,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+amazon.com,5,*,,,,,,,
+amazon.com,6,*,,,,,,,
+amazon.com,7,*,,,,,,,
+amazon.com,8,*,,,,,,,
+amazon.com,9,*,,,,,,,
+amazon.com,10,*,,,,,,,
+amazon.com,11,*,,,,,,,
+amazon.com,12,*,,,,,,,
+amazon.com,13,*,,,,,,,
+amazon.com,14,*,,,,,,,
+amazon.com,15,*,,,,,,,
+amazon.com,16,*,,,,,,,
+amazon.com,17,*,,,,,,,
+amazon.com,18,*,,,,,,,
+amazon.com,19,*,,,,,,,
+amazon.com,20,*,,,,,,,
+workers.dev,1,172.20.160.1,,,,,,,
+workers.dev,2,192.168.1.1,,,,,,,
+workers.dev,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+workers.dev,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+workers.dev,5,*,,,,,,,
+workers.dev,6,*,,,,,,,
+workers.dev,7,162.158.61.105,"AS13335 Cloudflare, Inc.",Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+workers.dev,8,104.18.12.15,"AS13335 Cloudflare, Inc.",San Francisco,California,US,"37.7621,-122.3971",94107,America/Los_Angeles
+wikipedia.org,1,172.20.160.1,,,,,,,
+wikipedia.org,2,192.168.1.1,,,,,,,
+wikipedia.org,3,71.172.72.1,AS701 Verizon Business,Monmouth Junction,New Jersey,US,"40.3790,-74.5465",08852,America/New_York
+wikipedia.org,4,100.41.132.142,AS701 Verizon Business,Newark,New Jersey,US,"40.7357,-74.1724",07102,America/New_York
+wikipedia.org,5,*,,,,,,,
+wikipedia.org,6,*,,,,,,,
+wikipedia.org,7,*,,,,,,,
+wikipedia.org,8,62.115.136.201,AS1299 Arelion Sweden AB,Ashburn,Virginia,US,"39.0437,-77.4875",20147,America/New_York
+wikipedia.org,9,62.115.141.50,AS1299 Arelion Sweden AB,Ashburn,Virginia,US,"39.0437,-77.4875",20147,America/New_York
+wikipedia.org,10,*,,,,,,,
+wikipedia.org,11,*,,,,,,,
+wikipedia.org,12,*,,,,,,,
+wikipedia.org,13,*,,,,,,,
+wikipedia.org,14,*,,,,,,,
+wikipedia.org,15,*,,,,,,,
+wikipedia.org,16,*,,,,,,,
+wikipedia.org,17,*,,,,,,,
+wikipedia.org,18,*,,,,,,,
+wikipedia.org,19,*,,,,,,,
+wikipedia.org,20,*,,,,,,,
+microsoftonline.com,N/A,N/A,Unresolvable,,,,,,
