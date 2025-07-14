@@ -1,0 +1,5 @@
+vm-europe-west3-std
+vm-northamerica-northeast1-std
+vm-southamerica-east1-std
+vm-us-west3-std
+vm-us-west4-std
